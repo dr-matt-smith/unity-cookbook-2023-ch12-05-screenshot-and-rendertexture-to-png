@@ -1,1 +1,1 @@
-# unity-cookbook-2023-ch12-05-screenshot-and-rendertexture-to-png
+# unity-cookbook-2023-ch12-06-screenshot-and-rendertexture-to-png
